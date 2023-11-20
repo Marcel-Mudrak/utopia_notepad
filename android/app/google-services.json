@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "886234199216",
+    "firebase_url": "https://utopia-notepad-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "utopia-notepad",
+    "storage_bucket": "utopia-notepad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886234199216:android:8f1b2a9470fe5cd5793775",
+        "android_client_info": {
+          "package_name": "com.example.utopia_recruitment_task_notepad"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsj9DzgU36GxJ8VcE-qIqERH4gK0XCeTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

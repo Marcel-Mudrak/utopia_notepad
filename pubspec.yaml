@@ -1,0 +1,18 @@
+name: utopia_recruitment_task
+description: Zadanie rekrutacyjne Utopia USS
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.0-0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^2.22.0
+  firebase_auth: ^4.14.0
+  cloud_firestore: ^4.13.1
+  intl: ^0.18.1
+  uuid: ^4.2.1
+
+flutter:
+  uses-material-design: true
