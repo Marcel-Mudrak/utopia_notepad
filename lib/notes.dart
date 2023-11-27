@@ -86,7 +86,7 @@ class _NotesState extends State<Notes> {
     ScaffoldMessenger.of(context).showSnackBar(
       SnackBar(
         duration: const Duration(seconds: 3),
-        content: const Text('Expense deleted'),
+        content: const Text('Note deleted'),
         action: SnackBarAction(
           label: 'Undo',
           onPressed: () {
@@ -103,12 +103,12 @@ class _NotesState extends State<Notes> {
   Widget build(BuildContext context) {
     Widget mainContentPinned = const Center(
       child: Text(
-        'No expenses found. Try adding some!',
+        'No notes found. Try adding some!',
       ),
     );
     Widget mainContent = const Center(
       child: Text(
-        'No expenses found. Try adding some!',
+        'No notes found. Try adding some!',
       ),
     );
 
